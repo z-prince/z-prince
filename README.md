@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-zacharysprince-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zacharysprince/)](https://www.linkedin.com/in/zacharysprince/) [![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
 
-<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
+<div style="text-align: right">A snake walks into a bar. The bartender asks, "How did you do that?". </div>
 
 ## :computer: Technologies I Love
 * Flutter
