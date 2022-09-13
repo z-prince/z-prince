@@ -28,7 +28,7 @@
 		hobbies = [
 				'Listening to New Music',
 				'Camping',
-				'Reading'
+				'Reading',
 				'Always learning!'
 			]
 	
