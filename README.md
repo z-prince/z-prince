@@ -2,7 +2,7 @@
 
 <h1>Here's a little more about me. Thanks for stopping by!</h1> 
 
-<img src = 'https://github.com/z-prince/z-prince/blob/main/coder_gif.gif' alt = 'Cool Guy Coder' align='right'/>
+<img src = 'https://github.com/z-prince/z-prince/blob/main/images/coder_gif.gif' alt = 'Cool Guy Coder' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-zacharysprince-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zacharysprince/)](https://www.linkedin.com/in/zacharysprince/) [![Gmail Badge](https://img.shields.io/badge/-zachary.s.prince@outlook.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:zachary.s.prince@outlook.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=z-prince" alt="z-prince" /> </p>
